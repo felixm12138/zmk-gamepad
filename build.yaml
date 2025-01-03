@@ -1,0 +1,3 @@
+include:
+   - board: nrfmicro_13
+     shield: fk40b
