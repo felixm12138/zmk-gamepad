@@ -52,5 +52,12 @@
             &kp LCTRL  &kp LGUI  &kp LALT                &kp SPACE   &mo 1      &kp SPACE   &kp DEL  &kp LEFT    &kp DOWN    &kp RIGHT
             >;
         };
+         extra1 {
+            status = "reserved";
+        };
+
+        extra2 {
+            status = "reserved";
+        };
     };
 };
