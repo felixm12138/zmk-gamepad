@@ -8,10 +8,6 @@ config ZMK_KEYBOARD_NAME
 
 endif
 
-if SHIELD_FK40B
-
-config ZMK_SPLIT
-    default y
 
 if ZMK_DISPLAY
 
