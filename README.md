@@ -1,1 +1,1 @@
-A 40% keyboard
+A gamepad

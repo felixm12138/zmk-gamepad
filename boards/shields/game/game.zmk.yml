@@ -1,0 +1,9 @@
+file_format: "1"
+id: game
+name: game
+type: shield
+url: https://github.com/felixm12138/gamepad
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+  - studio
