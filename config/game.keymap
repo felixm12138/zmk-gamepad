@@ -16,8 +16,28 @@
         default {
 
            bindings = <
-            &kp N1    &kp N1     &kp N2       &kp N3       &kp N4
-            &kp ESC    &kp Q     &kp W       &kp E       &kp R      
+            &kp ESC    &kp N1     &kp N2       &kp N3       &kp N4
+            &kp TAB    &kp Q     &kp W       &kp E       &kp R      
+            &kp CAPS   &kp A     &kp S       &kp D       &kp F      
+            &kp LSHFT  &kp Z     &kp X       &kp C       &kp V      
+            &kp LCTRL  &mo 1                          &kp SPACE  
+            >;
+        };
+2 {
+
+           bindings = <
+        &bootloader    &bt BT_SEL 0    &bt BT_SEL 1      &bt BT_SEL 2       &bt BT_CLR
+            &kp TAB    &kp Q     &kp W       &kp E       &kp R      
+            &kp CAPS   &kp A     &kp S       &kp D       &kp F      
+            &kp LSHFT  &kp Z     &kp X       &kp C       &kp V      
+            &kp LCTRL  &trns                          &kp SPACE  
+            >;
+        };
+3 {
+
+           bindings = <
+            &kp ESC    &kp N1     &kp N2       &kp N3       &kp N4
+            &kp TAB    &kp Q     &kp W       &kp E       &kp R      
             &kp CAPS   &kp A     &kp S       &kp D       &kp F      
             &kp LSHFT  &kp Z     &kp X       &kp C       &kp V      
             &kp LCTRL  &kp LGUI                          &kp SPACE  
