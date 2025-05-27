@@ -30,7 +30,7 @@
             &kp TAB    &kp Q     &kp W       &kp E       &kp R      
             &kp CAPS   &kp A     &kp S       &kp D       &kp F      
             &kp LSHFT  &kp Z     &kp X       &kp C       &kp V      
-            &kp LCTRL  &trns                          &kp SPACE  
+            &kp LCTRL  &trans                          &kp SPACE  
             >;
         };
 3 {
