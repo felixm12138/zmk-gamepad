@@ -16,7 +16,7 @@
         default {
 
            bindings = <
-            &kp ESC    &kp N1     &kp N2       &kp N3       &kp N4
+            &kp ESC    &kp F1     &kp N2       &kp N3       &kp H
             &kp TAB    &kp Q     &kp W       &kp E       &kp R      
             &kp CAPS   &kp A     &kp S       &kp D       &kp F      
             &kp LSHFT  &kp Z     &kp X       &kp C       &kp V      
@@ -46,3 +46,4 @@
 
     };
 };
+
